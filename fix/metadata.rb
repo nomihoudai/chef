@@ -6,4 +6,4 @@ version     "1.0.0"
 
 depends "deploy"
 
-recipe "opsworks_initial_setup::fixme", "please work"
+recipe "fix::fixme", "please work"
